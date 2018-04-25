@@ -5,7 +5,7 @@ A single page web app, using Google maps and Foursquare's API to list all severa
 
 ## Start the program:
 First install Node.js and download or clone this repository.
-Then navigate into the directory project directory and type:
+Then navigate into the project directory and type:
 ```
 npm install
 ```
